@@ -53,8 +53,8 @@ a {
 
 button {
     font-size: 18px;
-    background-color:#3882f6;
-    color: #f9faf8;
+    background-color: #cfa9cf;
+    color: hwb(0 100% 0%);
     cursor: pointer;
     border-radius: 8px;
     padding: 8px 16px;
@@ -143,7 +143,7 @@ button {
 }
 
 .modal {
-    background-color: #3882f6;
+    background-color: #974697;
     width: 700px;
     border-radius: 5px;
     box-shadow: 2px 4px 16px rgba(0,0,0,.2);
@@ -193,6 +193,6 @@ button {
 }
 
 img {
-    border-radius: 8px;
-    border: 4px solid #ce6fce;
+    border-radius: 12px;
+    border: 4px solid #974697;
 }
