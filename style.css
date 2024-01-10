@@ -99,7 +99,8 @@ button {
 
 .text {
     font-size: 18px;
-    color: #1f2937
+    color: #1f2937;
+    margin-top: 10px;
 }
 
 .container-3 {
