@@ -71,8 +71,9 @@ button {
 
 .top-img {
     display: flex;
-    align-items: center;
+    align-self: stretch;
     gap: 60px;
+    
 }
 
 .information-title {
@@ -188,4 +189,8 @@ button {
     font-size: 16px;
     padding-top: 48px;
     padding-bottom: 48px
+}
+
+img {
+    border-radius: 8px;
 }
